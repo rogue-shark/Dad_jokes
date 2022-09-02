@@ -1,4 +1,4 @@
-<h1 align="center">Rotating Navigation</h1>
+<h1 align="center">Dad Jokes Generator</h1>
 
 <div align="center">
    #50days50projects</a>.
@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://rogue-shark.github.io/Dad-jokes">
       D E M O
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://github.com/rogue-shark/Dad_jokes">
       Solution
   </h3>
 </div>
