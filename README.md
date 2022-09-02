@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://rogue-shark.github.io/Dad-jokes">
+    <a href="https://rogue-shark.github.io/Dad_jokes">
       D E M O
     </a>
     <span> | </span>
